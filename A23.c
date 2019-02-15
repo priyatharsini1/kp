@@ -4,7 +4,7 @@ void main()
 int n,a[n],temp,i,j;
 printf("Enter the Nth number\n");
 scanf("%d",&n);
-printf("Enter the array elements\n");
+printf(" Enter the array elements\n");
 for(i=0;i<n;i++)
 {
 scanf("%d",&a[i]);
@@ -21,5 +21,5 @@ a[j]=temp;
 }
 }
 }
-printf("The maximum element is %d",a[0]);
+printf(" The maximum element is %d",a[0]);
 }
