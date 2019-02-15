@@ -13,7 +13,7 @@ int main()
             gcd = i;
     }
 
-    printf("%d",gcd);
+    printf(" %d",gcd);
 
   
 }
